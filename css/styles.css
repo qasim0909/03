@@ -1,0 +1,80 @@
+#Title { padding: 2%; background-color: #ff4c68;
+}
+
+.navbar{ margin: 0% 3%;}
+.navbar-brand{ font-size: 1.2rem; font-weight: bold;}
+
+h1 {font-size: 5rem; padding-top: 50px; padding-bottom: 10px;}
+
+.iphone{ width: 400px; height: 300px; padding: 10%; position: relative; margin-left: 45px;}
+
+
+
+#features{ padding: 9% 14%; text-align: center; background-color: #ffff; }
+
+h3 { font-size: 0.5rem;}
+
+p { font-size: 1rem;}
+
+#testimonials{  background-color: #ef8172; text-align: center;
+ font-family: Montserrat; color: #ffff; padding-bottom: 4%;}
+
+ .dog{
+width: 15%;
+border-radius: 20%;
+margin: 5%;
+margin-bottom: 0%;
+margin-right: 3%;
+ }
+
+ em{
+   font-size: 80%;
+ }
+
+.carousel-item{
+  padding: 7% 15%;
+  padding-bottom: 0%;
+}
+
+#press{
+  text-align: center;
+  background-color: #ef8172;
+  padding: 5%;
+  padding-top: 0%;
+}
+
+.logo{
+  width: 15%;
+  margin: 2%;
+}
+
+#pricing{
+  text-align: center;
+  padding: 70px;
+}
+
+.card{
+  padding: 3%;
+  margin: 3%;
+}
+
+.price-title{
+  padding-bottom: 30px;
+}
+
+#cta{
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 7% 15%;
+}
+
+.foot{
+  padding-bottom: 5%;
+  color: #ffff;
+
+}
+
+#footer{
+  padding-top: 2%;
+  text-align: center;
+}
